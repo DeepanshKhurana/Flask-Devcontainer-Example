@@ -1,1 +1,1 @@
-# TODO Build the app.py file as per the instructions in ACTIVITY.md
+# TODO Build the app.py file as per the instructions in README.md
